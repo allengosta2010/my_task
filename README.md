@@ -1,5 +1,3 @@
-# my_task
-
 # First Task
 <br>
 pytest --browser_name=chrome test_example.py
